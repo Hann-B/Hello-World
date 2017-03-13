@@ -1,8 +1,24 @@
 html {
-  text-size-adjust: 100%;
+  font-size-adjust: 100%;
+}
+div image{
+  height: 50px;
+}
+body {
+  margin: 3;
+  font: 16px / 1 sans-serif;
 }
 
-body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+h1{
+  text-align: center;
+  color:#d857e6;
+  font-family: fantasy;
+}
+
+p{
+  font-family: system-ui;
+}
+#footer{
+  font-size: 12px;
+  text-align: right;
 }
